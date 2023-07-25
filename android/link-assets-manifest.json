@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DemoConeriaScript.ttf",
+      "sha1": "ca1fcc4e2e60f057ac959f1ce5dc3fd12c348cd8"
+    },
+    {
+      "path": "assets/fonts/DemoConeriaScriptSlanted.ttf",
+      "sha1": "d93323f6ec6ceb1d548c41a6162e3cea016ba824"
+    },
+    {
+      "path": "assets/fonts/Malinda.otf",
+      "sha1": "a1d0ccd98c0b678724f49643e1e404d572cbab7e"
+    },
+    {
+      "path": "assets/fonts/Malinda.ttf",
+      "sha1": "d4949172aeb716efae0074f1ead95db33a455ae9"
+    }
+  ]
+}
